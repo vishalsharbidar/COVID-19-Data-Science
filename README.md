@@ -18,7 +18,7 @@ For this, I have followed an industry-standard process (CRISP-DM) by focusing o
 
 The entire project follows the development flow of a rapid prototype project.
 
-## Final Dash Board
+## First look of Dash Board
 
 ![Final dynamic dashboard](/reports/figures/plotly_result.png)
 

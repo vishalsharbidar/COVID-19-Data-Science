@@ -20,4 +20,4 @@ The entire project follows the development flow of a rapid prototype project.
 
 [Final dynamic dashboard](https://www.udemy.com/course/applied-data-science-covid-19-prototype/?referralCode=5316264CAD7289C935C9)
 
-![Final dynamic dashboard](\reports\figures\plotly_result.png)
+![Final dynamic dashboard](/reports/figures/plotly_result.png)

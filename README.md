@@ -18,6 +18,6 @@ For this, I have followed an industry-standard process (CRISP-DM) by focusing o
 
 The entire project follows the development flow of a rapid prototype project.
 
-[Final dynamic dashboard](https://www.udemy.com/course/applied-data-science-covid-19-prototype/?referralCode=5316264CAD7289C935C9)
+## Final Dash Board
 
 ![Final dynamic dashboard](/reports/figures/plotly_result.png)

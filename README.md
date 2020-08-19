@@ -24,4 +24,6 @@ The entire project follows the development flow of a rapid prototype project.
 
 ## Final look of Dash Board
 ![Final dynamic dashboard](/reports/figures/dash_result.jpg)
+
+
 The project is yet to be completed

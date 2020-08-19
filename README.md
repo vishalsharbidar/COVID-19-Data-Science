@@ -23,5 +23,5 @@ The entire project follows the development flow of a rapid prototype project.
 ![First dynamic dashboard](/reports/figures/plotly_result.png)
 
 ## Final look of Dash Board
-![Final dynamic dashboard](/reports/figures/dash_result.png)
+![Final dynamic dashboard](/reports/figures/dash_result.jpg)
 The project is yet to be completed

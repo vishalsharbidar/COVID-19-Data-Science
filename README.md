@@ -25,10 +25,15 @@ The entire project follows the development flow of a rapid prototype project.
 ## Final look of Dash Board
 In final look, the dashboard is divided into 3 sections,
 * Timelines confirmed, doubling rate
+![Timeline](/reports/figures/Timeline_dash.PNG)
 
 * SIR model
+![SIR model](/reports/figures/SIR_dash.PNG)
 
 * World map
+![World Map](/reports/figures/World_map.PNG)
+
+Final look of Dash Board
 ![Final dynamic dashboard](/reports/figures/dash_result.PNG)
 
 

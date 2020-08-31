@@ -23,6 +23,12 @@ The entire project follows the development flow of a rapid prototype project.
 ![First dynamic dashboard](/reports/figures/plotly_result.png)
 
 ## Final look of Dash Board
+In final look, the dashboard is divided into 3 sections,
+* Timelines confirmed, doubling rate
+
+* SIR model
+
+* World map
 ![Final dynamic dashboard](/reports/figures/dash_result.PNG)
 
 

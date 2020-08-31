@@ -39,5 +39,5 @@ In final look, the dashboard is divided into 3 sections,
 
 Final look of Dash Board
 
-![Final dynamic dashboard](/reports/figures/dash_result.PNG)
+![Final dynamic dashboard](/reports/figures/Final.PNG)
 

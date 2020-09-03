@@ -1,6 +1,9 @@
 # Applied Data Science - COVID 19 Data Analysis
 
-The goal of this project is to learn the best practices of data science from the industry while developing a COVID-19 analysis prototype
+The goals of this project,
+* is to learn the best practices of data science from the industry while developing a COVID-19 analysis prototype.
+* To trace the confirmed number, calculate the doubling rate and doubling time for 100+ countries.
+* To generate SIR model simulation for 100+ countries.
 
 The project focuses on the process of modeling (Python) and a methodology to approach a business problem.
 
@@ -26,14 +29,18 @@ The entire project follows the development flow of a rapid prototype project.
 In final look, the dashboard is divided into 3 sections,
 
 * Timelines confirmed, doubling rate
-
+  Timelines confirmed:Number of confirmed cases registered for a particular country. 
+  Doubling rate: Rate at which a country's confirmed cases are doubling. 
+  Doubling rate filtered: Doubling rate data is filtered using 'Savgol filter' for better forecast.
+  
 ![Timeline](/reports/figures/Timeline_dash.PNG)
 
-* SIR model
+* SIR model: S: Susceptible, I: Infected, R: Recovered
+  An SIR model is an epidemiological model that computes the theoretical number of people infected with a contagious illness in a closed population over time.
 
 ![SIR model](/reports/figures/SIR_dash.PNG)
 
-* World map
+* World map: Shows the confirmed cases for each country.
 
 ![World Map](/reports/figures/World_map.PNG)
 

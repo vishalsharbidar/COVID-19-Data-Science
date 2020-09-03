@@ -6,7 +6,7 @@ The project focuses on the process of modeling (Python) and a methodology to app
 
 The final result will be a dynamic dashboard - which can be updated by one click - of COVID-19 data with filtered and calculated data sets like the current Doubling Rate of confirmed cases
 
-Techniques used are REST Services, Python Pandas, scikit-learn, Facebook Prophet, Plotly, Dash, + bonus section Tableau
+Techniques used are manual data gathering, Python Pandas, scikit-learn, Facebook Prophet, Plotly, Dash
 
 For this, I have followed an industry-standard process (CRISP-DM) by focusing on the iterative nature of agile development
 
@@ -14,7 +14,7 @@ For this, I have followed an industry-standard process (CRISP-DM) by focusing o
 * Data Understanding (where do we get data and cleaning of data)
 * Data Preparation (data transformation and visualization)
 * Modeling (Statistics, Machine Learning, and SIR Simulations on COVID Data)
-* Deployment (how to deliver results, dynamic dashboards in python and Tableau)
+* Deployment (how to deliver results, dynamic dashboards in python)
 
 The entire project follows the development flow of a rapid prototype project.
 

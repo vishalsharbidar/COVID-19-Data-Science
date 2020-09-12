@@ -33,7 +33,7 @@ In final look, the dashboard is divided into 3 sections,
   Doubling rate: Rate at which a country's confirmed cases are doubling. 
   Doubling rate filtered: Doubling rate data is filtered using 'Savgol filter' for better forecast.
   
-![Timeline](/reports/figures/Timeline_dash.PNG)
+![Timeline](/reports/figures/Timeline_dash_2.PNG)
 
 * SIR model: S: Susceptible, I: Infected, R: Recovered
   An SIR model is an epidemiological model that computes the theoretical number of people infected with a contagious illness in a closed population over time.

@@ -44,7 +44,7 @@ In final look, the dashboard is divided into 3 sections,
 
 ![World Map](/reports/figures/World_map.PNG)
 
-Final look of Dash Board
+Final look of Dash Board!
 
 ![Final dynamic dashboard](/reports/figures/Final.PNG)
 

@@ -1,6 +1,6 @@
 # Applied Data Science - COVID 19 Data Analysis
 
-[Video](https://drive.google.com/file/d/1kd--roOhrPkfHhMqVT6zEelXM4pEHzY7/view?usp=sharing) -_GoogleDrive_
+[Video Explanation](https://drive.google.com/file/d/1kd--roOhrPkfHhMqVT6zEelXM4pEHzY7/view?usp=sharing) -_GoogleDrive_
 
 The goals of this project,
 * is to learn the best practices of data science from the industry while developing a COVID-19 analysis prototype.

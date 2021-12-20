@@ -2,6 +2,7 @@
 
 [Video Explanation](https://drive.google.com/file/d/1kd--roOhrPkfHhMqVT6zEelXM4pEHzY7/view?usp=sharing) -_GoogleDrive_
 
+git test
 The goals of this project,
 * is to learn the best practices of data science from the industry while developing a COVID-19 analysis prototype.
 * To trace the confirmed number, calculate the doubling rate and doubling time for 100+ countries.

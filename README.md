@@ -1,7 +1,6 @@
 # Applied Data Science - COVID 19 Data Analysis
 
-git test
-The goals of this project,
+## The goals of this project,
 * is to learn the best practices of data science from the industry while developing a COVID-19 analysis prototype.
 * To trace the confirmed number, calculate the doubling rate and doubling time for 100+ countries.
 * To generate SIR model simulation for 100+ countries.
